@@ -1,0 +1,26 @@
+*{
+	background:#000030;
+}
+
+.evento h1{
+	font-size: 50px;
+	font-family: "anton";
+	color: #dcdcdc;
+}
+.evento h2{
+	font-family: "anton";
+	color: #dcdcdc;
+}
+.evento img{
+	float:left;
+}
+.evento p{
+	font-size: 18px;
+	font-family: "montserrat";
+	color: #dcdcdc;
+}
+
+.evento-grid{
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+}
